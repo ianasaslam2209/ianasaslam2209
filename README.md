@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Mohammad Anas
 
-### 💻 Software Engineering Student | Aspiring Full Stack & WordPress Developer
+### 💻 Software Engineering Student | Aspiring Software Developer
 
 I'm a passionate Software Engineering student who enjoys building web applications, solving programming problems, and learning new technologies. I'm always looking for opportunities to improve my skills and contribute to meaningful projects.
 
