@@ -35,14 +35,6 @@ I'm a passionate Software Engineering student who enjoys building web applicatio
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ianasaslam2209&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ianasaslam2209&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Connect with Me
 
 - 📧 Email: asa036412@gmail.com
@@ -51,5 +43,5 @@ I'm a passionate Software Engineering student who enjoys building web applicatio
 ---
 
 ⭐ Thanks for visiting my profile!!--
-**ianasaslam2209/ianasaslam2209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
